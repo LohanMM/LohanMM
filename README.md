@@ -60,8 +60,8 @@ Adoro transformar ideias em soluções práticas e colaborar em equipe para cria
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lohanmacedo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohanmacedo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LohanMM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanMM&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -70,9 +70,5 @@ Adoro transformar ideias em soluções práticas e colaborar em equipe para cria
 
 📍 Barbalha - CE, Brasil  
 🔗 [LinkedIn](https://www.linkedin.com/in/lohan-macedo/)  
-💼 [GitHub](https://github.com/lohanmacedo)  
+💼 [GitHub](https://github.com/LohanMM)  
 📧 lohan4256@gmail.com
-
----
-
-⭐️ **Dica:** fixe seus projetos principais no topo do GitHub para que os recrutadores vejam primeiro!
